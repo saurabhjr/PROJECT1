@@ -1,0 +1,5 @@
+outs:
+- md5: 9c4b75e0f07b4332f4a5e4230f98120c.dir
+  size: 21038700
+  nfiles: 1000
+  path: cats
